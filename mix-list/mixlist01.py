@@ -24,6 +24,11 @@ print(f"IP addresses: {iplist[3]}, and {iplist[4]}")
 # example 4 
 print(f"IP addresses: {iplist[-3]}, and {iplist[-2]}")
 
+# example 5
+
+print("IP addresses: "  + iplist[3] + " : " + iplist[4])
+
+        
 
 
 
